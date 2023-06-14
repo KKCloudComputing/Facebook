@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 The first and the second line of code are commited
 
 update the code in statsh
@@ -11,3 +12,10 @@ fsafsfsfsdfsdf
 dsfssdf
 sdfssdf
 dsfads
+=======
+
+Update the code
+
+test
+
+>>>>>>> Stashed changes
